@@ -11,6 +11,9 @@ Feel free to use this dataset, preserving the authorship relevant to the corresp
 | Au_ED.dm3 | Gold NPs (cross-grating grid); ED | 2019 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
 | Au_HRTEM_1.dm3 | Gold NPs (cross-grating grid); TEM | 2019 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
 | Au_HRTEM_2.dm3 | Gold NPs (cross-grating grid); TEM | 2019 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
+| Au_HRTEM_3.dm3 | Gold NPs (cross-grating grid); TEM | 2022 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
+| Au_TEM.dm3 | Gold NPs (cross-grating grid); TEM | 2022 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
+| Au_STEM.dm3 | Gold NPs (cross-grating grid); TEM | 2022 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
 | Au_Latex_STEM_1.dm3 | Gold-shaded latex spheres; HAADF-STEM | 2021 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
 | Au_Latex_STEM_2.dm3 | Gold-shaded latex spheres; SE-STEM | 2021 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
 | ED_Al.dm3 | Evaporated Aluminium; ED | 2019 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
