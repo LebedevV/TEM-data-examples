@@ -13,8 +13,8 @@ Feel free to use this dataset, preserving the authorship relevant to the corresp
 | ED_Al.dm3 | Evaporated Aluminium | ED | 2019 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
 | Multiple_particles.dm3 | Gold NPs (cross-grating grid) | TEM | 2019 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
 | Single_particle.dm3 | Latex sphere | TEM | 2019 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
-| | Gold nanoparticles | | 2023 | Dr. Rodrigo Soto Lopez | Faculty of Chemistry, University of Barcelona, Barselona, Spain |*doi?*|
-| | Silicon | | 2020 | Dr. Vasily A. Lebedev | School of Physics, Trinity College Dublin, Dublin, Ireland||
+| *tbd* | Gold nanoparticles | | 2023 | Dr. Rodrigo Soto Lopez | Faculty of Chemistry, University of Barcelona, Barselona, Spain |*doi?*|
+| *tbd* | Silicon | | 2020 | Dr. Vasily A. Lebedev | School of Physics, Trinity College Dublin, Dublin, Ireland||
 
 ## Special thanks to
 *project name to be added*
