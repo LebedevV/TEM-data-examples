@@ -18,6 +18,7 @@ Feel free to use this dataset, preserving the authorship relevant to the corresp
 | Au_Latex_STEM_2.dm3 | Gold-shaded latex spheres; SE-STEM | 2021 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
 | ED_Al.dm3 | Evaporated Aluminium; ED | 2019 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
 | Multiple_particles.dm3 | Gold NPs (cross-grating grid); TEM | 2019 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
+| SC_Au_HRTEM.dm3 | Single crystal gold reference sample; TEM | 2022 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
 | Single_particle.dm3 | Latex sphere; TEM | 2019 | Dr. Vasily A. Lebedev | Bernal Institute, University of Limerick, Limerick, Ireland||
 | Cu_NPs.dm3 | Cu-based nanoparticles; TEM | 2023 | Dr. Rodrigo Soto Lopez | Faculty of Chemistry, University of Barcelona, Barselona, Spain |*doi?*|
 | Pd_NPs_1.dm3 | Pd-based nanoparticles; TEM | 2023 | Dr. Rodrigo Soto Lopez | Faculty of Chemistry, University of Barcelona, Barselona, Spain |*doi?*|
