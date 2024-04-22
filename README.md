@@ -1,6 +1,6 @@
 # TEM data examples
 
-The goal of this project is to provide one with a free and diverse dataset of raw (S)TEM frames, acquired in differend modes on different electron microscopes.
+The goal of this project is to provide one with a free and diverse dataset of raw (S)TEM frames, acquired in different modes on different electron microscopes.
 This dataset is of particular value as a test object for the automated data processing tools, but can be helpful for teaching as well.
 
 Feel free to use this dataset, preserving the authorship relevant to the corresponding image(s); see CC-BY-4.0 license for details
