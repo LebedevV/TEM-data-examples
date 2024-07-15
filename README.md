@@ -21,9 +21,9 @@ Feel free to use this dataset, preserving the authorship relevant to the corresp
 | Multiple_particles.dm3 | Gold NPs (cross-grating grid); TEM | Dr. Vasily A. Lebedev, Bernal Institute, University of Limerick, Limerick, Ireland, 2019 ||
 | SC_Au_HRTEM.dm3 | Single crystal gold reference sample; TEM | Dr. Vasily A. Lebedev, Bernal Institute, University of Limerick, Limerick, Ireland, 2022 ||
 | Single_particle.dm3 | Polystyrene sphere; TEM | Dr. Vasily A. Lebedev, Bernal Institute, University of Limerick, Limerick, Ireland, 2019 ||
-| Cu_NPs.dm3 | Cu-based nanoparticles; TEM | Dr. Rodrigo Soto Lopez, Faculty of Chemistry, University of Barcelona, Barselona, Spain, 2023 |*doi?*|
-| Pd_NPs_1.dm3 | Pd-based nanoparticles; TEM | Dr. Rodrigo Soto Lopez, Faculty of Chemistry, University of Barcelona, Barselona, Spain, 2023 |*doi?*|
-| Pd_NPs_2.dm3 | Pd-based nanoparticles; TEM | Dr. Rodrigo Soto Lopez, Faculty of Chemistry, University of Barcelona, Barselona, Spain, 2023 |*doi?*|
+| Cu_NPs.dm3 | Cu-based nanoparticles; TEM | Dr. Rodrigo Soto Lopez, Faculty of Chemistry, University of Barcelona, Barselona, Spain, 2023 |[doi](https://doi.org/10.1007/s11244-024-01987-9)|
+| Pd_NPs_1.dm3 | Pd-based nanoparticles; TEM | Dr. Rodrigo Soto Lopez, Faculty of Chemistry, University of Barcelona, Barselona, Spain, 2023 |[doi](https://doi.org/10.1007/s11244-024-01987-9)|
+| Pd_NPs_2.dm3 | Pd-based nanoparticles; TEM | Dr. Rodrigo Soto Lopez, Faculty of Chemistry, University of Barcelona, Barselona, Spain, 2023 |[doi](https://doi.org/10.1007/s11244-024-01987-9)|
 | Rh.dm3 | Cross-grating grid; STEM (ronchigram) | Dr. Vasily A. Lebedev, Bernal Institute, University of Limerick, Limerick, Ireland, 2022 ||
 | TiO2_ED.dm4 | TiO2; ED | Dr. Vasily A. Lebedev, Lomonosov MSU, Moscow, Russia, 2017 ||
 | TiO2_TEM.dm4 | Decorated TiO2; TEM | Dr. Vasily A. Lebedev, Lomonosov MSU, Moscow, Russia, 2015 ||
